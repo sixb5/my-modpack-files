@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "distribution": "github-release-bundles",
-  "version": "2.5.1",
-  "releaseTag": "2.5.1",
-  "generatedAt": "2026-09-25T19:05:01.979Z",
+  "version": "2.5.2",
+  "releaseTag": "2.5.2",
+  "generatedAt": "2026-09-25T21:09:24.683Z",
   "minecraft": "1.21.1",
   "neoforge": "21.1.248",
   "recommendedRamMb": 10848,
@@ -29,72 +29,72 @@
   "bundles": [
     {
       "id": "core-config",
-      "fileName": "world-collapse-core-config-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-core-config-2.5.1.zip",
+      "fileName": "world-collapse-core-config-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-core-config-2.5.2.zip",
       "sha256": "e73aa7ae8bf6619bbe354b6a33c5029b13547c97924f327c8b9f8a3e8af49f5e",
       "size": 24915083,
       "fileCount": 827
     },
     {
       "id": "world-content",
-      "fileName": "world-collapse-world-content-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-world-content-2.5.1.zip",
+      "fileName": "world-collapse-world-content-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-world-content-2.5.2.zip",
       "sha256": "878e24f57a059ebc169f61e7c4347ca27d1206ecbcfe9f2efa4da67b055ca9b5",
       "size": 492725,
       "fileCount": 6
     },
     {
       "id": "mods-3",
-      "fileName": "world-collapse-mods-3-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-mods-3-2.5.1.zip",
-      "sha256": "91592cb80bbea97a980f60b7fb844fcce593642edb7089b6dcdd58dd71c98940",
-      "size": 115785441,
-      "fileCount": 76
+      "fileName": "world-collapse-mods-3-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-3-2.5.2.zip",
+      "sha256": "083b9057cb27f00ca616c7f6e1375df24a1353392ef75448e03f76d0d034ea8a",
+      "size": 115868796,
+      "fileCount": 77
     },
     {
       "id": "mods-2",
-      "fileName": "world-collapse-mods-2-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-mods-2-2.5.1.zip",
-      "sha256": "a55ac0b330b2709de91727aa9393d92b9908a38ec69746bd9681e93c3fe9d917",
-      "size": 96019687,
-      "fileCount": 75
+      "fileName": "world-collapse-mods-2-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-2-2.5.2.zip",
+      "sha256": "049fe7dc287ff910e1c60ec990337d8e991a06e7d259c4cd7fe207300123ebea",
+      "size": 96034056,
+      "fileCount": 76
     },
     {
       "id": "mods-1",
-      "fileName": "world-collapse-mods-1-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-mods-1-2.5.1.zip",
-      "sha256": "a422a1be739524fde9ceb79e573ead7f6d4ee1d3d31087b15735b5576ba08b5a",
-      "size": 164240262,
-      "fileCount": 96
+      "fileName": "world-collapse-mods-1-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-1-2.5.2.zip",
+      "sha256": "60b8f534b780e4d0f4e8eb0a026d683bcfa7b30a3cf2d8186d72f5277c0f0d69",
+      "size": 169069531,
+      "fileCount": 97
     },
     {
       "id": "mods-4",
-      "fileName": "world-collapse-mods-4-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-mods-4-2.5.1.zip",
+      "fileName": "world-collapse-mods-4-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-4-2.5.2.zip",
       "sha256": "962c74d891974a90faed0b62854d608d1e431f5bad04f90232b1405a02a7d12e",
       "size": 475691064,
       "fileCount": 84
     },
     {
       "id": "resourcepacks",
-      "fileName": "world-collapse-resourcepacks-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-resourcepacks-2.5.1.zip",
+      "fileName": "world-collapse-resourcepacks-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-resourcepacks-2.5.2.zip",
       "sha256": "71681ad78d58d8c3ba8ddf70e73b35cb1dea6d5fb3b3cb501f04b5162b68826a",
       "size": 3090012,
       "fileCount": 31
     },
     {
       "id": "shaderpacks",
-      "fileName": "world-collapse-shaderpacks-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-shaderpacks-2.5.1.zip",
+      "fileName": "world-collapse-shaderpacks-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-shaderpacks-2.5.2.zip",
       "sha256": "a1e3b2e5f220fc576b80353862d7b749c2eaea8e82cbcfa07dd45dfe9a5063ca",
       "size": 5237702,
       "fileCount": 1234
     },
     {
       "id": "tacz",
-      "fileName": "world-collapse-tacz-2.5.1.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.1/world-collapse-tacz-2.5.1.zip",
+      "fileName": "world-collapse-tacz-2.5.2.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-tacz-2.5.2.zip",
       "sha256": "d84f9ffaec6f5c43f15b9548cd3a6f8ad8744c7f6d71546c24f8c8a05f54f20f",
       "size": 51587418,
       "fileCount": 3323
@@ -5232,6 +5232,12 @@
       "bundle": "mods-2"
     },
     {
+      "path": "mods/bluemap-5.7-neoforge.jar",
+      "sha256": "827ac3921986d0d5e9c24ef2280f47c110d22dc14d284efb65330010d2e9517d",
+      "size": 5414670,
+      "bundle": "mods-1"
+    },
+    {
       "path": "mods/blueprint-1.21.1-8.1.1.jar",
       "sha256": "6a60d361d6aaf61273b65036958a646ff05d9ecb22fc706074a7e886e55ec190",
       "size": 1202822,
@@ -5464,6 +5470,12 @@
       "sha256": "69235a1ddd64fa7a37c898258b45ef90ed204b9626c48b73b3ed2d8aa614103e",
       "size": 768288,
       "bundle": "mods-1"
+    },
+    {
+      "path": "mods/create_bluemap-1.1.1.jar",
+      "sha256": "1dc287271f7db558146e4473954f204f526f368259a274d5df0a67e953b66050",
+      "size": 15642,
+      "bundle": "mods-2"
     },
     {
       "path": "mods/create_chipped-1.2.0-neoforge-1.21.1.jar",
@@ -6249,6 +6261,12 @@
       "path": "mods/ftb-xmod-compat-neoforge-21.1.11.jar",
       "sha256": "0bfa6513c51b697a81ab2afc1b25983d3e39fe4a33ec334b57e6384b25a17450",
       "size": 153045,
+      "bundle": "mods-3"
+    },
+    {
+      "path": "mods/ftbchunksbluemap-1.1.1.jar",
+      "sha256": "b6db554796669974b756d425cb54e219d44cf9fa37ba9af1dd29bb5f812787d6",
+      "size": 88308,
       "bundle": "mods-3"
     },
     {
