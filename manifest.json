@@ -31,8 +31,8 @@
       "id": "core-config",
       "fileName": "world-collapse-core-config-2.5.0.zip",
       "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-core-config-2.5.0.zip",
-      "sha256": "631f84696024f856b7a2b5b022db826a7bbd88edfcb2f3e4f91833475ae7fcf3",
-      "size": 5102954,
+      "sha256": "e1d2b84eea840f589af24129619b437d8fda1ea82ae45bf2380b49e76c782a68",
+      "size": 5091475,
       "fileCount": 811
     },
     {
@@ -95,16 +95,16 @@
       "id": "shaderpacks",
       "fileName": "world-collapse-shaderpacks-2.5.0.zip",
       "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-shaderpacks-2.5.0.zip",
-      "sha256": "c77e176ef791e57968b907ae8f0b577e54ada8eadb46c1f995ab2ed30490f6ef",
-      "size": 5238276,
+      "sha256": "fd687479da1bdcb063019ddfdcb1c6989142513430289be41ecb69dec559ac1a",
+      "size": 5237702,
       "fileCount": 1234
     },
     {
       "id": "tacz",
       "fileName": "world-collapse-tacz-2.5.0.zip",
       "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-tacz-2.5.0.zip",
-      "sha256": "748be086ccde3ab5b0fdc17be6adc5a0831c06fd2b617d1cc57c238988424063",
-      "size": 51589626,
+      "sha256": "d84f9ffaec6f5c43f15b9548cd3a6f8ad8744c7f6d71546c24f8c8a05f54f20f",
+      "size": 51587418,
       "fileCount": 3323
     }
   ],
