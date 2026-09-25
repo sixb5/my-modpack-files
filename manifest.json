@@ -2,7 +2,7 @@
   "schemaVersion": 4,
   "distribution": "github-release-bundles",
   "version": "2.5.0",
-  "releaseTag": "v2.5.0",
+  "releaseTag": "2.5.0",
   "generatedAt": "2026-09-25T13:40:52.420Z",
   "minecraft": "1.21.1",
   "neoforge": "21.1.248",
@@ -30,7 +30,7 @@
     {
       "id": "core-config",
       "fileName": "world-collapse-core-config-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-core-config-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-core-config-2.5.0.zip",
       "sha256": "631f84696024f856b7a2b5b022db826a7bbd88edfcb2f3e4f91833475ae7fcf3",
       "size": 5102954,
       "fileCount": 811
@@ -38,7 +38,7 @@
     {
       "id": "world-content",
       "fileName": "world-collapse-world-content-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-world-content-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-world-content-2.5.0.zip",
       "sha256": "878e24f57a059ebc169f61e7c4347ca27d1206ecbcfe9f2efa4da67b055ca9b5",
       "size": 492725,
       "fileCount": 6
@@ -46,7 +46,7 @@
     {
       "id": "mods-hosted-1",
       "fileName": "world-collapse-mods-hosted-1-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-mods-hosted-1-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-mods-hosted-1-2.5.0.zip",
       "sha256": "daf38a68e6bd1877189beb477cc8d158b079dd1dac6bb1e840d2b50055837b20",
       "size": 254947945,
       "fileCount": 154
@@ -54,7 +54,7 @@
     {
       "id": "mods-hosted-2",
       "fileName": "world-collapse-mods-hosted-2-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-mods-hosted-2-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-mods-hosted-2-2.5.0.zip",
       "sha256": "a5bffcaddd74d1f7e7c04d91dca6e9928898f82edef099538eb85268813cca34",
       "size": 224083449,
       "fileCount": 91
@@ -62,7 +62,7 @@
     {
       "id": "mods-hosted-3",
       "fileName": "world-collapse-mods-hosted-3-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-mods-hosted-3-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-mods-hosted-3-2.5.0.zip",
       "sha256": "14bddf126d29d4c8f9cdf0d9d1bd836418fb571b06150cfd9783436dc090cf24",
       "size": 280737108,
       "fileCount": 40
@@ -70,7 +70,7 @@
     {
       "id": "mods-hosted-4",
       "fileName": "world-collapse-mods-hosted-4-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-mods-hosted-4-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-mods-hosted-4-2.5.0.zip",
       "sha256": "bcef7bfe6a754b0f863ce638a480929f7f7648fc5a09c19a6e5e39b03685cac9",
       "size": 87906154,
       "fileCount": 18
@@ -78,7 +78,7 @@
     {
       "id": "mods-custom",
       "fileName": "world-collapse-mods-custom-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-mods-custom-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-mods-custom-2.5.0.zip",
       "sha256": "a6ae428b2c419a4d3519458b155b0ef8f7267279f610b118688c6448792b8817",
       "size": 3998988,
       "fileCount": 27
@@ -86,7 +86,7 @@
     {
       "id": "resourcepacks",
       "fileName": "world-collapse-resourcepacks-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-resourcepacks-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-resourcepacks-2.5.0.zip",
       "sha256": "71681ad78d58d8c3ba8ddf70e73b35cb1dea6d5fb3b3cb501f04b5162b68826a",
       "size": 3090012,
       "fileCount": 31
@@ -94,7 +94,7 @@
     {
       "id": "shaderpacks",
       "fileName": "world-collapse-shaderpacks-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-shaderpacks-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-shaderpacks-2.5.0.zip",
       "sha256": "c77e176ef791e57968b907ae8f0b577e54ada8eadb46c1f995ab2ed30490f6ef",
       "size": 5238276,
       "fileCount": 1234
@@ -102,7 +102,7 @@
     {
       "id": "tacz",
       "fileName": "world-collapse-tacz-2.5.0.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/v2.5.0/world-collapse-tacz-2.5.0.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.0/world-collapse-tacz-2.5.0.zip",
       "sha256": "748be086ccde3ab5b0fdc17be6adc5a0831c06fd2b617d1cc57c238988424063",
       "size": 51589626,
       "fileCount": 3323
