@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "distribution": "github-release-bundles",
-  "version": "2.5.3",
-  "releaseTag": "2.5.3",
-  "generatedAt": "2026-09-29T12:07:32.474Z",
+  "version": "2.5.4",
+  "releaseTag": "2.5.4",
+  "generatedAt": "2026-09-29T14:07:47.809Z",
   "minecraft": "1.21.1",
   "neoforge": "21.1.248",
   "recommendedRamMb": 10848,
@@ -29,72 +29,72 @@
   "bundles": [
     {
       "id": "core-config",
-      "fileName": "world-collapse-core-config-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-core-config-2.5.3.zip",
+      "fileName": "world-collapse-core-config-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-core-config-2.5.4.zip",
       "sha256": "9aa0b3c5544694cbba21405e3e4967a723d4840edf71a41af8a6590da124e7b1",
       "size": 24917921,
       "fileCount": 830
     },
     {
       "id": "world-content",
-      "fileName": "world-collapse-world-content-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-world-content-2.5.3.zip",
+      "fileName": "world-collapse-world-content-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-world-content-2.5.4.zip",
       "sha256": "878e24f57a059ebc169f61e7c4347ca27d1206ecbcfe9f2efa4da67b055ca9b5",
       "size": 492725,
       "fileCount": 6
     },
     {
       "id": "mods-3",
-      "fileName": "world-collapse-mods-3-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-3-2.5.3.zip",
-      "sha256": "bc0fe1769c71836a51f2e606cc5859ada2d607fc5cc739e3ac0051b9d798f4be",
-      "size": 115715220,
-      "fileCount": 76
+      "fileName": "world-collapse-mods-3-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-mods-3-2.5.4.zip",
+      "sha256": "f47c2820878a7f365eb5528bfe998a58eccf634d6abd0bcd590b08c851e9dc65",
+      "size": 120270133,
+      "fileCount": 78
     },
     {
       "id": "mods-2",
-      "fileName": "world-collapse-mods-2-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-2-2.5.3.zip",
-      "sha256": "b60dd3ab687f0c7d5b656b17019f7c6f5ef171105ae7c284878989c805965ac5",
-      "size": 96192941,
-      "fileCount": 77
+      "fileName": "world-collapse-mods-2-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-mods-2-2.5.4.zip",
+      "sha256": "746d214955c1541078e7010da14da1e2e8899c13b547dd7ab64dc4a6890ac563",
+      "size": 216860062,
+      "fileCount": 78
     },
     {
       "id": "mods-1",
-      "fileName": "world-collapse-mods-1-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-1-2.5.3.zip",
+      "fileName": "world-collapse-mods-1-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-mods-1-2.5.4.zip",
       "sha256": "00baaf90d312d77f3bed2a03d2629fa8a817316ef5a26323d605c670170446a2",
       "size": 169367818,
       "fileCount": 99
     },
     {
       "id": "mods-4",
-      "fileName": "world-collapse-mods-4-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-4-2.5.3.zip",
-      "sha256": "962c74d891974a90faed0b62854d608d1e431f5bad04f90232b1405a02a7d12e",
-      "size": 475691064,
-      "fileCount": 84
+      "fileName": "world-collapse-mods-4-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-mods-4-2.5.4.zip",
+      "sha256": "891a969506517bf4947165f3efd02f0c78d02aad2de830c0f42f329d6f1402c2",
+      "size": 479583095,
+      "fileCount": 87
     },
     {
       "id": "resourcepacks",
-      "fileName": "world-collapse-resourcepacks-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-resourcepacks-2.5.3.zip",
+      "fileName": "world-collapse-resourcepacks-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-resourcepacks-2.5.4.zip",
       "sha256": "71681ad78d58d8c3ba8ddf70e73b35cb1dea6d5fb3b3cb501f04b5162b68826a",
       "size": 3090012,
       "fileCount": 31
     },
     {
       "id": "shaderpacks",
-      "fileName": "world-collapse-shaderpacks-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-shaderpacks-2.5.3.zip",
+      "fileName": "world-collapse-shaderpacks-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-shaderpacks-2.5.4.zip",
       "sha256": "304f7edfcb86347a3fe2b473242509212706c275fc6f1a5289182cdf5cdb8044",
       "size": 5237702,
       "fileCount": 1234
     },
     {
       "id": "tacz",
-      "fileName": "world-collapse-tacz-2.5.3.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-tacz-2.5.3.zip",
+      "fileName": "world-collapse-tacz-2.5.4.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.4/world-collapse-tacz-2.5.4.zip",
       "sha256": "d84f9ffaec6f5c43f15b9548cd3a6f8ad8744c7f6d71546c24f8c8a05f54f20f",
       "size": 51587418,
       "fileCount": 3323
@@ -5202,6 +5202,12 @@
       "bundle": "mods-4"
     },
     {
+      "path": "mods/beautify-neoforge-1.21.1-2.0.2.jar",
+      "sha256": "30fe272345eb016408d9144a7d33795a8bff0f33f68d9ab71805d0088b818f26",
+      "size": 932199,
+      "bundle": "mods-4"
+    },
+    {
       "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
       "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca",
       "size": 193619,
@@ -6336,6 +6342,12 @@
       "bundle": "mods-4"
     },
     {
+      "path": "mods/HellishTrials-neoforge-1.0.5.jar",
+      "sha256": "7f28724652eedd275970455e37629758f7279bd3918a4f1d852676dcf392db63",
+      "size": 581988,
+      "bundle": "mods-3"
+    },
+    {
       "path": "mods/Highlighter-1.21-neoforge-1.1.11.jar",
       "sha256": "cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b",
       "size": 30417,
@@ -6472,6 +6484,18 @@
       "sha256": "eccaa99b08f021268ceaa4745586a63a9f364c9a0d8bd38acf9d2e4611a22a30",
       "size": 39777,
       "bundle": "mods-1"
+    },
+    {
+      "path": "mods/legendarysurvivaloverhaul-1.21.1-2.4.7.2.jar",
+      "sha256": "6fca055e218e7d3a482007afe62fae1138463b898357c5d552fc373c77ad9260",
+      "size": 3916894,
+      "bundle": "mods-4"
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.26.jar",
+      "sha256": "a148e4d1778d52819d2a4574ba9ccc3f39b7eefb0ace86fbe4121057ee7d1eca",
+      "size": 2664623,
+      "bundle": "mods-2"
     },
     {
       "path": "mods/letsdo-herbalbrews-neoforge-1.1.4.jar",
@@ -6846,10 +6870,10 @@
       "bundle": "mods-4"
     },
     {
-      "path": "mods/servermarket-2.7.3-NETWORK-FIX.jar",
-      "sha256": "fcd469b20383276547ed2df68c0d6755c99a8a33b14e9312290eca0ea97958f9",
-      "size": 168639,
-      "bundle": "mods-2"
+      "path": "mods/servermarket-2.7.4-CLEARLAG-NETWORK-FIX.jar",
+      "sha256": "4e5643a3e67712d54e435202a12be083941e6d48ef41171b6e3d41ae44ebee55",
+      "size": 177752,
+      "bundle": "mods-4"
     },
     {
       "path": "mods/SimpleBackups-1.21-4.0.21.jar",
@@ -6922,6 +6946,18 @@
       "sha256": "5d7e31c4082a7783cdd11846a043cced4d58350ac7f7537ad13c1f2215002630",
       "size": 1687195,
       "bundle": "mods-2"
+    },
+    {
+      "path": "mods/spore_1.21.1_2.2.0j_neo.jar",
+      "sha256": "0cdb027eb53e6872bdb8de601dc52c176fcb6ddd33a0a2e20a66392937c3d5fe",
+      "size": 119073141,
+      "bundle": "mods-2"
+    },
+    {
+      "path": "mods/starcatcher-3.2-NEOFORGE-1.21.1.jar",
+      "sha256": "298f92eec368c91a09d3399983ee58b2acbaf9e792ddf38d4fae62437b9b2ca8",
+      "size": 4397424,
+      "bundle": "mods-3"
     },
     {
       "path": "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
