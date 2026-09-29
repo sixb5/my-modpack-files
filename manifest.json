@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
   "distribution": "github-release-bundles",
-  "version": "2.5.2",
-  "releaseTag": "2.5.2",
-  "generatedAt": "2026-09-25T21:09:24.683Z",
+  "version": "2.5.3",
+  "releaseTag": "2.5.3",
+  "generatedAt": "2026-09-29T12:07:32.474Z",
   "minecraft": "1.21.1",
   "neoforge": "21.1.248",
   "recommendedRamMb": 10848,
@@ -29,72 +29,72 @@
   "bundles": [
     {
       "id": "core-config",
-      "fileName": "world-collapse-core-config-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-core-config-2.5.2.zip",
-      "sha256": "e73aa7ae8bf6619bbe354b6a33c5029b13547c97924f327c8b9f8a3e8af49f5e",
-      "size": 24915083,
-      "fileCount": 827
+      "fileName": "world-collapse-core-config-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-core-config-2.5.3.zip",
+      "sha256": "9aa0b3c5544694cbba21405e3e4967a723d4840edf71a41af8a6590da124e7b1",
+      "size": 24917921,
+      "fileCount": 830
     },
     {
       "id": "world-content",
-      "fileName": "world-collapse-world-content-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-world-content-2.5.2.zip",
+      "fileName": "world-collapse-world-content-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-world-content-2.5.3.zip",
       "sha256": "878e24f57a059ebc169f61e7c4347ca27d1206ecbcfe9f2efa4da67b055ca9b5",
       "size": 492725,
       "fileCount": 6
     },
     {
       "id": "mods-3",
-      "fileName": "world-collapse-mods-3-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-3-2.5.2.zip",
-      "sha256": "083b9057cb27f00ca616c7f6e1375df24a1353392ef75448e03f76d0d034ea8a",
-      "size": 115868796,
-      "fileCount": 77
-    },
-    {
-      "id": "mods-2",
-      "fileName": "world-collapse-mods-2-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-2-2.5.2.zip",
-      "sha256": "049fe7dc287ff910e1c60ec990337d8e991a06e7d259c4cd7fe207300123ebea",
-      "size": 96034056,
+      "fileName": "world-collapse-mods-3-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-3-2.5.3.zip",
+      "sha256": "bc0fe1769c71836a51f2e606cc5859ada2d607fc5cc739e3ac0051b9d798f4be",
+      "size": 115715220,
       "fileCount": 76
     },
     {
+      "id": "mods-2",
+      "fileName": "world-collapse-mods-2-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-2-2.5.3.zip",
+      "sha256": "b60dd3ab687f0c7d5b656b17019f7c6f5ef171105ae7c284878989c805965ac5",
+      "size": 96192941,
+      "fileCount": 77
+    },
+    {
       "id": "mods-1",
-      "fileName": "world-collapse-mods-1-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-1-2.5.2.zip",
-      "sha256": "60b8f534b780e4d0f4e8eb0a026d683bcfa7b30a3cf2d8186d72f5277c0f0d69",
-      "size": 169069531,
-      "fileCount": 97
+      "fileName": "world-collapse-mods-1-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-1-2.5.3.zip",
+      "sha256": "00baaf90d312d77f3bed2a03d2629fa8a817316ef5a26323d605c670170446a2",
+      "size": 169367818,
+      "fileCount": 99
     },
     {
       "id": "mods-4",
-      "fileName": "world-collapse-mods-4-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-mods-4-2.5.2.zip",
+      "fileName": "world-collapse-mods-4-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-mods-4-2.5.3.zip",
       "sha256": "962c74d891974a90faed0b62854d608d1e431f5bad04f90232b1405a02a7d12e",
       "size": 475691064,
       "fileCount": 84
     },
     {
       "id": "resourcepacks",
-      "fileName": "world-collapse-resourcepacks-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-resourcepacks-2.5.2.zip",
+      "fileName": "world-collapse-resourcepacks-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-resourcepacks-2.5.3.zip",
       "sha256": "71681ad78d58d8c3ba8ddf70e73b35cb1dea6d5fb3b3cb501f04b5162b68826a",
       "size": 3090012,
       "fileCount": 31
     },
     {
       "id": "shaderpacks",
-      "fileName": "world-collapse-shaderpacks-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-shaderpacks-2.5.2.zip",
-      "sha256": "a1e3b2e5f220fc576b80353862d7b749c2eaea8e82cbcfa07dd45dfe9a5063ca",
+      "fileName": "world-collapse-shaderpacks-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-shaderpacks-2.5.3.zip",
+      "sha256": "304f7edfcb86347a3fe2b473242509212706c275fc6f1a5289182cdf5cdb8044",
       "size": 5237702,
       "fileCount": 1234
     },
     {
       "id": "tacz",
-      "fileName": "world-collapse-tacz-2.5.2.zip",
-      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.2/world-collapse-tacz-2.5.2.zip",
+      "fileName": "world-collapse-tacz-2.5.3.zip",
+      "url": "https://github.com/sixb5/my-modpack-files/releases/download/2.5.3/world-collapse-tacz-2.5.3.zip",
       "sha256": "d84f9ffaec6f5c43f15b9548cd3a6f8ad8744c7f6d71546c24f8c8a05f54f20f",
       "size": 51587418,
       "fileCount": 3323
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "config/createth-server-identity.properties",
-      "sha256": "18b5a99e4b74a3899a1cff47c92df70f57a24cedd9b0edb146db9d8ef9526c80",
+      "sha256": "3dc218ea229e82c76ad60c6598f465704f663d0c73c82b7acd1e8a5f428ff48b",
       "size": 525,
       "bundle": "core-config"
     },
@@ -2077,7 +2077,7 @@
     },
     {
       "path": "config/createthhud-client.properties",
-      "sha256": "99bae784330575d2afa0bbf2e01ad15bb86447b15ae8e4e65363f851d5d8ff6a",
+      "sha256": "533ecac54071947eb88a1589b5fdd5871e1a22b613f5d64dd34a060701f9b968",
       "size": 290,
       "bundle": "core-config"
     },
@@ -2569,7 +2569,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "sha256": "4691421d3349315340ca3a7cda4eddb367154a389328178487ef1837778d7fa1",
+      "sha256": "397309a9c51d05425e69d1cde1f7d2aaf79517ccaf5d148a53e61eede1554631",
       "size": 291,
       "bundle": "core-config"
     },
@@ -2923,7 +2923,7 @@
     },
     {
       "path": "config/ftbchunks-client.snbt",
-      "sha256": "90ccdeb20645ddb716be647081f717cdcfb8353ccea7651edace8dc9ac964581",
+      "sha256": "033c95cb5fb226caf8224c51467769c0b6d8b45ae349543e3e8afcaad0c75cc9",
       "size": 10144,
       "bundle": "core-config"
     },
@@ -2931,6 +2931,12 @@
       "path": "config/ftbchunks-world.snbt",
       "sha256": "045ced909c197435a8dc25e09ef89d651d612ff49348ae5d15f32d1f1e852ee8",
       "size": 9334,
+      "bundle": "core-config"
+    },
+    {
+      "path": "config/ftbchunksbluemap-common.toml",
+      "sha256": "29e87ad64f025c21fc46161cb53fe5733b91e35339424106401ea2f94a1dbcac",
+      "size": 692,
       "bundle": "core-config"
     },
     {
@@ -3259,7 +3265,7 @@
     },
     {
       "path": "config/iris.properties",
-      "sha256": "5aee68609653d5f37bdf3cb9e979eff5f6105acdd123de99524c59bf1356b176",
+      "sha256": "5ab1ff4977111aac72c20bd5e8e798112ce9a8d3bc7e2538f59a4dbc338d66be",
       "size": 337,
       "bundle": "core-config"
     },
@@ -3757,7 +3763,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "sha256": "3be9d5dc1c67e8b0e2242ac491f4e6adecaeceb3bb5086a3e3fa04fda3f0f153",
+      "sha256": "4b4dd8ec15c53d4d0cea099956a97ec0a16eb780c30539257596686811bb78d6",
       "size": 488,
       "bundle": "core-config"
     },
@@ -4087,7 +4093,7 @@
     },
     {
       "path": "config/servermarket-daily-limits.json",
-      "sha256": "0351d8e8558d775ffeb0c78c0bc1f24729fc24b82a8d96744bc0622a4a595228",
+      "sha256": "576a75e5efec6870ec2072b0f8fe7372a71021eb59f83dcc7659b0088c111287",
       "size": 45,
       "bundle": "core-config"
     },
@@ -4207,8 +4213,8 @@
     },
     {
       "path": "config/sodium-options.json",
-      "sha256": "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f",
-      "size": 762,
+      "sha256": "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1",
+      "size": 761,
       "bundle": "core-config"
     },
     {
@@ -4905,6 +4911,18 @@
       "path": "config/xaeropatreon.txt",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
+      "bundle": "core-config"
+    },
+    {
+      "path": "config/xray-client.toml",
+      "sha256": "4b86460c56685b398ea00af978e413c9bc84c7c2026d5f48e926b099d2e15581",
+      "size": 665,
+      "bundle": "core-config"
+    },
+    {
+      "path": "config/xray/block_store.json",
+      "sha256": "6c9276b5fd41e30ebc513cdec51bc2117f4afe89ff5e2e0800a5213c480fae73",
+      "size": 11484,
       "bundle": "core-config"
     },
     {
@@ -5952,6 +5970,12 @@
       "bundle": "mods-2"
     },
     {
+      "path": "mods/createthspawnerevolution-0.2.0-ALPHA.jar",
+      "sha256": "4b0030fdc3a0adbec57b063da4618b9494c6d2240e3e82f97cc992bb485bb102",
+      "size": 180936,
+      "bundle": "mods-1"
+    },
+    {
       "path": "mods/createthstructurestudio-0.1.0.jar",
       "sha256": "9ea96225917b6f318feb57be8f787bcc753af6125f6e3113c2e665287bb45969",
       "size": 85880,
@@ -6822,10 +6846,10 @@
       "bundle": "mods-4"
     },
     {
-      "path": "mods/servermarket-2.7.1-DECOR-CATALOG-FIX(1).jar",
-      "sha256": "1c1eeafab7b9c65e9b80fd309729670885b2ae4937fbec3faba22e5ed6da6187",
-      "size": 161834,
-      "bundle": "mods-3"
+      "path": "mods/servermarket-2.7.3-NETWORK-FIX.jar",
+      "sha256": "fcd469b20383276547ed2df68c0d6755c99a8a33b14e9312290eca0ea97958f9",
+      "size": 168639,
+      "bundle": "mods-2"
     },
     {
       "path": "mods/SimpleBackups-1.21-4.0.21.jar",
@@ -7095,6 +7119,12 @@
       "path": "mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
       "sha256": "8152f9fa4c0c3cdb6541ac46d852902617e80ccd121cfa43412c0b56045b40ae",
       "size": 304511,
+      "bundle": "mods-1"
+    },
+    {
+      "path": "mods/zz_TEST_advanced-xray-neoforge-21.0.0.jar",
+      "sha256": "7311748ea1e2239e2a289d8aa64e73c6f48ac598219791f8719336dd49a7bbb6",
+      "size": 129873,
       "bundle": "mods-1"
     },
     {
